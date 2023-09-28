@@ -1,6 +1,6 @@
-import Loading from "../components/loading";
+import Loading from "../components/Loading";
 import ProductContainer from "../components/products/ProductContainer"
-import FilterByCategories from "../components/products/filterByCategories";
+import FilterByCategories from "../components/products/FilterByCategories";
 import { useAppSelector } from "../redux/hooks"
 
 const Product = () => {
